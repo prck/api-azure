@@ -2,7 +2,7 @@ using System;
 
 namespace azure
 {
-    public class WeatherForecast
+    public class Values
     {
         public DateTime Date { get; set; }
 
