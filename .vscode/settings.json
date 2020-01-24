@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/6317d430-e3c1-41f3-b1f9-bf3c91c6ac25/resourceGroups/MyFirstApi/providers/Microsoft.Web/sites/myfirstapi",
+  "appService.deploySubpath": "publish"
+}
