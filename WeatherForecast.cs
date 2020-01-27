@@ -1,7 +1,7 @@
 using System;
 
 namespace azure {
-  public class Values {
+  public class Val {
     public DateTime Date { get; set; }
 
     public int TemperatureC { get; set; }
